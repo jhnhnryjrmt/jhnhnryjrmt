@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhnhnryjrmt
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, PHP
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, Vue.js
 - 📫 How to reach me:
     ✉️ jhenryj09@gmail.com
 
